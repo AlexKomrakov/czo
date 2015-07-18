@@ -1,1 +1,8 @@
-/.idea
+/vendor
+/node_modules
+/resources/vendor
+/public/css
+/public/js
+/public/build
+Homestead.yaml
+.env
