@@ -4,5 +4,6 @@
 /public/css
 /public/js
 /public/build
+/.idea
 Homestead.yaml
 .env

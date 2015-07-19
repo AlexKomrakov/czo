@@ -11,6 +11,10 @@
 |
 */
 
+Route::get('admin', 'Auth\AuthController@getLogin');
+Route::post('admin', 'Auth\AuthController@postLogin');
+Route::get('logout', 'Auth\AuthController@getLogout');
+
 Route::get('/', function () {
     return view('pages.index');
 });
