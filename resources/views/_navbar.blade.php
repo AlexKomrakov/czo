@@ -5,16 +5,16 @@
         </a>
         <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
         <ul class="right hide-on-med-and-down" style="margin-left: 150px;">
-            <li><a class="waves-effect waves-light btn blue-grey" href="">Контакты</a></li>
-            <li><a class="waves-effect waves-light btn blue-grey" href="">Услуги</a></li>
-            <li><a class="waves-effect waves-light btn blue-grey" href="">Клиенты и отзывы</a></li>
-            <li><a class="waves-effect waves-light btn blue-grey" href="">Вопросы и ответы</a></li>
+            <li><a class="waves-effect waves-light btn blue-grey {{Request::is('contacts') ? "darken-2" : ""}}" href="/contacts">Контакты</a></li>
+            <li><a class="waves-effect waves-light btn blue-grey {{Request::is('uslugi') ? "darken-2" : ""}}" href="/uslugi">Услуги</a></li>
+            <li><a class="waves-effect waves-light btn blue-grey {{Request::is('clients') ? "darken-2" : ""}}" href="/clients">Клиенты и отзывы</a></li>
+            <li><a class="waves-effect waves-light btn blue-grey {{Request::is('faq') ? "darken-2" : ""}}" href="/faq">Вопросы и ответы</a></li>
         </ul>
         <ul class="side-nav" id="mobile-demo">
-            <li><a href="">Контакты</a></li>
-            <li><a href="">Услуги</a></li>
-            <li><a href="">Клиенты и отзывы</a></li>
-            <li><a href="">Вопросы и ответы</a></li>
+            <li class="{{Request::is('contacts') ? "active" : ""}}"><a href="/contacts">Контакты</a></li>
+            <li class="{{Request::is('uslugi') ? "active" : ""}}"><a href="/uslugi">Услуги</a></li>
+            <li class="{{Request::is('clients') ? "active" : ""}}"><a href="/clients">Клиенты и отзывы</a></li>
+            <li class="{{Request::is('faq') ? "active" : ""}}"><a href="/faq">Вопросы и ответы</a></li>
         </ul>
     </div>
 </nav>
