@@ -7,6 +7,7 @@
 
     <link rel="stylesheet" href="{{ elixir("css/app.css") }}">
     <script src="{{elixir("js/app.js")}}"></script>
+    <script src="/public/ckeditor/ckeditor.js"></script>
 
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href='http://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic&subset=cyrillic-ext,latin' rel='stylesheet' type='text/css'>

@@ -16,8 +16,7 @@
                     <label for="description">Описание</label>
                 </div>
                 <div class="input-field col s12">
-                    <textarea type="text" id="body" name="body" class="materialize-textarea">{!! $page->body !!}</textarea>
-                    <label for="body">Содержание</label>
+                    <textarea id="ckeditor" type="text" id="body" name="body" class="materialize-textarea">{!! $page->body !!}</textarea>
                 </div>
                 <div class="input-field col s12" style="margin-top: 50px;">
                     <button class="btn" type="submit">Сохранить</button>
@@ -26,5 +25,13 @@
         </form>
 
     </div>
+
+    <script>
+        CKEDITOR.replace( 'ckeditor', {
+            allowedContent: true,
+            autoGrow_onStartup: true,
+            extraPlugins:'autogrow'
+        });
+    </script>
 
 @endsection
