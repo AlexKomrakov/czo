@@ -15,13 +15,19 @@
 </head>
 <body>
 
-@if(Auth::check())
-    @include('_admin')
-@endif
+<header>
+    @if(Auth::check())
+        @include('_admin')
+    @endif
 
-@include('_navbar')
+    @include('_navbar')
+</header>
 
-@yield('content')
+<main>
+    @yield('content')
+</main>
+
+@include('_footer')
 
 <script>
     $( document ).ready(function() {

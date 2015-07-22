@@ -114,33 +114,6 @@
     </div>
 </div>
 
-<div class="col s12 blue-grey" style="padding: 25px 0;">
-    <div class="container">
-        <div class="row pos-relative">
-
-            <div class="col s6">
-                <h5>ООО «Центр земельных отношений»</h5>
-                Юридический адрес: г. Бор, ул. Рослякова д. 12<br>
-                Тел. 8 (83159) 2-40-65, 9-93-00.<br>
-                Директор Шишкин Юрий Викторович<br>
-                Лицензия ВВГ-01728Г от 18 февраля 2008 г.<br>
-                Члены НП СРО «Земля и Недвижимость» г. Москва №000050<br>
-                Внесены в реестр «Кадастровые инженеры»<br>
-
-                <ul style="margin-bottom: 0; margin-top: 25px;">
-                    <li class="display-inline"><a class="black-text btn-flat" href="/contacts">Контакты</a></li>
-                    <li class="display-inline"><a class="black-text btn-flat" href="/uslugi">Услуги</a></li>
-                    <li class="display-inline"><a class="black-text btn-flat" href="/clients">Клиенты и отзывы</a></li>
-                    <li class="display-inline"><a class="black-text btn-flat" href="/faq">Вопросы и ответы</a></li>
-                </ul>
-            </div>
-            <a href="http://www.ooods.ru" target="_blank">
-                <img class="card-title pos-absolute" src="/public/img/ds_logo.png" style="bottom: 0; right: 0;">
-            </a>
-        </div>
-    </div>
-</div>
-
 <script>
     $(document).ready(function(){
         $('.parallax').parallax();
