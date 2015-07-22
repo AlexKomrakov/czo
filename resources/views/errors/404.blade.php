@@ -3,7 +3,8 @@
 @section('content')
 
     <div class="container section center-align">
-        <h2>На сайте ведутся технические работы</h2>
+        <h2>Страница не найдена</h2>
+
     </div>
 
 @endsection
