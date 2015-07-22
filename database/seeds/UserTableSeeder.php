@@ -12,10 +12,12 @@ class UserTableSeeder extends Seeder
      */
     public function run()
     {
-        User::create([
-            'name'     => 'Admin',
-            'email'    => 'admin@czo.dev',
-            'password' => '$2a$10$hSQukn3uquuvsYDEpGtRGOGcY81xD27Iwuo92lY6B7ODmlK3Kl5Zy',
-        ]);
+        if (User::count() == 0) {
+            User::create([
+                'name'     => 'Admin',
+                'email'    => 'admin@czo.dev',
+                'password' => '$2a$10$hSQukn3uquuvsYDEpGtRGOGcY81xD27Iwuo92lY6B7ODmlK3Kl5Zy',
+            ]);
+        }
     }
 }

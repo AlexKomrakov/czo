@@ -1,6 +1,6 @@
 <nav>
     <div class="nav-wrapper container" style="overflow: hidden;">
-        <a href="#!" class="brand-logo">
+        <a href="/" class="brand-logo">
             <img src="/public/img/logo.png" style="position: relative; height: 100%;">
         </a>
         <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>

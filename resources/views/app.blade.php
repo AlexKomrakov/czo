@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>@lang('app.name')</title>
+
+    <title>@lang('app.name') @yield('title')</title>
+    <meta name="Description" content="@yield('description')"/>
 
     <link rel="stylesheet" href="{{ elixir("css/app.css") }}">
     <script src="{{elixir("js/app.js")}}"></script>

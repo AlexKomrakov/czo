@@ -16,5 +16,17 @@ Route::post('admin', 'Auth\AuthController@postLogin');
 Route::get('logout', 'Auth\AuthController@getLogout');
 
 Route::get('/', function () {
-    return view('pages.index');
+    $page = \App\Page::find('index');
+    return view('pages.show', compact('page'));
+});
+Route::get('{pages}', 'PagesController@show');
+
+Route::model('pages', 'App\Page');
+
+
+
+Route::group(['middleware' => 'auth'], function () {
+    Route::resource('admin/pages', 'PagesController', ['only' => ['index', 'show', 'edit', 'store', 'create']]);
+    Route::get('admin/pages/{pages}/delete', 'PagesController@delete');
+    Route::post('admin/pages/{pages}/update', 'PagesController@update');
 });
