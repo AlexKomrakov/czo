@@ -17,6 +17,7 @@ class PageTableSeeder extends Seeder
             [
                 'id' => 'contacts',
                 'title' => 'Контакты',
+                'body' => file_get_contents(base_path() . '/database/seeds/pages/contacts.blade.php'),
             ],
             [
                 'id' => 'clients',
@@ -25,10 +26,12 @@ class PageTableSeeder extends Seeder
             [
                 'id' => 'uslugi',
                 'title' => 'Услуги',
+                'body' => file_get_contents(base_path() . '/database/seeds/pages/uslugi.blade.php'),
             ],
             [
                 'id' => 'faq',
                 'title' => 'Вопросы и ответы',
+                'body' => file_get_contents(base_path() . '/database/seeds/pages/faq.blade.php'),
             ],
         ];
     }
