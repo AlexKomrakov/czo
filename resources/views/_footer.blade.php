@@ -20,7 +20,7 @@
             </div>
             <div class="col s12 m5" style="min-height: 100px;">
                 <a href="http://www.ooods.ru" target="_blank">
-                    <img class="card-title pos-absolute" src="/public/img/ds_logo.png" style="bottom: 0; right: 0;">
+                    <img class="card-title pos-absolute" src="/public/img/ds_logo.png" style="bottom: 0; right: 15px;">
                 </a>
             </div>
         </div>
