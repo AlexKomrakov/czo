@@ -1,8 +1,8 @@
 <div class="container section">
 
     <ul class="collapsible" data-collapsible="accordion">
-        <li class="collapsible-header truncate text-italic blue-grey white-text">
-            <b>Какова стоимость  кадастровых работ</b>
+        <li class="collapsible-header truncate blue-grey white-text">
+            <b>Какова стоимость кадастровых работ</b>
         </li>
             <li>
                 <div class="collapsible-header truncate text-italic">
@@ -44,7 +44,7 @@
                     </p>
                 </div>
             </li>
-        <li class="collapsible-header truncate text-italic blue-grey white-text">
+        <li class="collapsible-header truncate blue-grey white-text">
             <b>Какие документы необходимо предоставить для заключения договора подряда</b>
         </li>
             <li>
@@ -77,7 +77,7 @@
                     </p>
                 </div>
             </li>
-        <li id="mejevanie" class="collapsible-header truncate text-italic blue-grey white-text">
+        <li id="mejevanie" class="collapsible-header truncate blue-grey white-text">
             <b>Межевание</b>
         </li>
             <li>
@@ -150,7 +150,7 @@
                     </p>
                 </div>
             </li>
-        <li class="collapsible-header truncate text-italic blue-grey white-text">
+        <li class="collapsible-header truncate blue-grey white-text">
             <b>Другие вопросы</b>
         </li>
             <li>
