@@ -1,11 +1,11 @@
 <div class="container section">
 
     <ul class="collapsible" data-collapsible="accordion">
-        <li class="collapsible-header truncate blue-grey white-text">
+        <li class="collapsible-header truncate text-italic blue-grey white-text">
             <b>Какова стоимость  кадастровых работ</b>
         </li>
             <li>
-                <div class="collapsible-header truncate">
+                <div class="collapsible-header truncate text-italic">
                     На выполнения работ по уточнению границ и площади земельного участка?
                 </div>
                 <div class="collapsible-body grey lighten-4">
@@ -15,7 +15,7 @@
                 </div>
             </li>
             <li>
-                <div class="collapsible-header truncate">
+                <div class="collapsible-header truncate text-italic">
                     На выполнения работ по восстановлению границ земельного участка?
                 </div>
                 <div class="collapsible-body grey lighten-4">
@@ -25,7 +25,7 @@
                 </div>
             </li>
             <li>
-                <div class="collapsible-header truncate">
+                <div class="collapsible-header truncate text-italic">
                     На выполнения работ по разделу земельного участка?
                 </div>
                 <div class="collapsible-body grey lighten-4">
@@ -35,7 +35,7 @@
                 </div>
             </li>
             <li>
-                <div class="collapsible-header truncate">
+                <div class="collapsible-header truncate text-italic">
                     На выполнения работ по перераспределению земельных участков?
                 </div>
                 <div class="collapsible-body grey lighten-4">
@@ -44,11 +44,11 @@
                     </p>
                 </div>
             </li>
-        <li class="collapsible-header truncate blue-grey white-text">
+        <li class="collapsible-header truncate text-italic blue-grey white-text">
             <b>Какие документы необходимо предоставить для заключения договора подряда</b>
         </li>
             <li>
-                <div class="collapsible-header truncate">
+                <div class="collapsible-header truncate text-italic">
                     Чтобы выполнить работы по восстановлению границ земельного участка?
                 </div>
                 <div class="collapsible-body grey lighten-4">
@@ -58,7 +58,7 @@
                 </div>
             </li>
             <li>
-                <div class="collapsible-header truncate">
+                <div class="collapsible-header truncate text-italic">
                     Чтобы выполнить работы по разделу земельного участка?
                 </div>
                 <div class="collapsible-body grey lighten-4">
@@ -68,7 +68,7 @@
                 </div>
             </li>
             <li>
-                <div class="collapsible-header truncate">
+                <div class="collapsible-header truncate text-italic">
                     Чтобы выполнить работы по перераспределению земельных участков?
                 </div>
                 <div class="collapsible-body grey lighten-4">
@@ -77,11 +77,11 @@
                     </p>
                 </div>
             </li>
-        <li class="collapsible-header truncate blue-grey white-text">
+        <li id="mejevanie" class="collapsible-header truncate text-italic blue-grey white-text">
             <b>Межевание</b>
         </li>
             <li>
-                <div class="collapsible-header truncate">
+                <div class="collapsible-header truncate text-italic">
                     Кто выполняет кадастровые работы?
                 </div>
                 <div class="collapsible-body grey lighten-4">
@@ -91,7 +91,7 @@
                 </div>
             </li>
             <li>
-                <div class="collapsible-header truncate">
+                <div class="collapsible-header truncate text-italic">
                     Основания для выполнения кадастровых работ?
                 </div>
                 <div class="collapsible-body grey lighten-4">
@@ -101,7 +101,7 @@
                 </div>
             </li>
             <li>
-                <div class="collapsible-header truncate">
+                <div class="collapsible-header truncate text-italic">
                     Результат кадастровых работ?
                 </div>
                 <div class="collapsible-body grey lighten-4">
@@ -111,7 +111,7 @@
                 </div>
             </li>
             <li>
-                <div class="collapsible-header truncate">
+                <div class="collapsible-header truncate text-italic">
                     Что какое межевой план?
                 </div>
                 <div class="collapsible-body grey lighten-4">
@@ -121,7 +121,7 @@
                 </div>
             </li>
             <li>
-                <div class="collapsible-header truncate">
+                <div class="collapsible-header truncate text-italic">
                     Что какое технический план?
                 </div>
                 <div class="collapsible-body grey lighten-4">
@@ -131,7 +131,7 @@
                 </div>
             </li>
             <li>
-                <div class="collapsible-header truncate">
+                <div class="collapsible-header truncate text-italic">
                     Что какое Акт обследования?
                 </div>
                 <div class="collapsible-body grey lighten-4">
@@ -141,7 +141,7 @@
                 </div>
             </li>
             <li>
-                <div class="collapsible-header truncate">
+                <div class="collapsible-header truncate text-italic">
                     Порядок согласования местоположения границ земельного участка?
                 </div>
                 <div class="collapsible-body grey lighten-4">
@@ -150,11 +150,11 @@
                     </p>
                 </div>
             </li>
-        <li class="collapsible-header truncate blue-grey white-text">
+        <li class="collapsible-header truncate text-italic blue-grey white-text">
             <b>Другие вопросы</b>
         </li>
             <li>
-                <div class="collapsible-header truncate" title="Раздел земельных участков стоящих на кадастровом учете, находящийся с общедолевой собственности физических лиц?">
+                <div class="collapsible-header truncate text-italic" title="Раздел земельных участков стоящих на кадастровом учете, находящийся с общедолевой собственности физических лиц?">
                     Раздел земельных участков стоящих на кадастровом учете, находящийся с общедолевой собственности физических лиц?
                 </div>
                 <div class="collapsible-body grey lighten-4">
@@ -165,7 +165,7 @@
                 </div>
             </li>
             <li>
-                <div class="collapsible-header truncate" title="Исправление кадастровой ошибки. Что делать если земельный участок выходит за границу кадастрового квартала, который вроде как и является границей населенного пункта, хотя установление границ населенного пункта на местности не проводилось, координаты поворотных точек границ населенного пункта определены не были и в графическом виде не предоставлялись, а участок разрабатывался и используется с 1992года?">
+                <div class="collapsible-header truncate text-italic" title="Исправление кадастровой ошибки. Что делать если земельный участок выходит за границу кадастрового квартала, который вроде как и является границей населенного пункта, хотя установление границ населенного пункта на местности не проводилось, координаты поворотных точек границ населенного пункта определены не были и в графическом виде не предоставлялись, а участок разрабатывался и используется с 1992года?">
                     Исправление кадастровой ошибки. Что делать если земельный участок выходит за границу кадастрового квартала, который вроде как и является границей населенного пункта, хотя установление границ населенного пункта на местности не проводилось, координаты поворотных точек границ населенного пункта определены не были и в графическом виде не предоставлялись, а участок разрабатывался и используется с 1992года?
                 </div>
                 <div class="collapsible-body grey lighten-4">
@@ -176,7 +176,7 @@
                 </div>
             </li>
             <li>
-                <div class="collapsible-header truncate" title="Нежелание или невозможность нотариусов вводить в наследство без кадастровых паспортов. Технические планы для постановки на кадастровый учет подготавливаются на основании декларации об объекте недвижимости. Кто должен ее подписывать, как не наследники?">
+                <div class="collapsible-header truncate text-italic" title="Нежелание или невозможность нотариусов вводить в наследство без кадастровых паспортов. Технические планы для постановки на кадастровый учет подготавливаются на основании декларации об объекте недвижимости. Кто должен ее подписывать, как не наследники?">
                     Нежелание или невозможность нотариусов вводить в наследство без кадастровых паспортов. Технические планы для постановки на кадастровый учет подготавливаются на основании декларации об объекте недвижимости. Кто должен ее подписывать, как не наследники?
                 </div>
                 <div class="collapsible-body grey lighten-4">
@@ -190,7 +190,7 @@
                 </div>
             </li>
             <li>
-                <div class="collapsible-header truncate" title="Остается актуальным вопрос о постановке на учет объектов недвижимости, которые расположены на земельных участках, сведения о границах которого отсутствуют в ГКН. Обязательно ли людям «межеваться» или это можно как-то обойти?">
+                <div class="collapsible-header truncate text-italic" title="Остается актуальным вопрос о постановке на учет объектов недвижимости, которые расположены на земельных участках, сведения о границах которого отсутствуют в ГКН. Обязательно ли людям «межеваться» или это можно как-то обойти?">
                     Остается актуальным вопрос о постановке на учет объектов недвижимости, которые расположены на земельных участках, сведения о границах которого отсутствуют в ГКН. Обязательно ли людям «межеваться» или это можно как-то обойти?
                 </div>
                 <div class="collapsible-body grey lighten-4">
@@ -200,7 +200,7 @@
                 </div>
             </li>
             <li>
-                <div class="collapsible-header truncate" title="Особенности проведения кадастровых работ на земельных участках, входящих в состав единого землепользования?">
+                <div class="collapsible-header truncate text-italic" title="Особенности проведения кадастровых работ на земельных участках, входящих в состав единого землепользования?">
                     Особенности проведения кадастровых работ на земельных участках, входящих в состав единого землепользования?
                 </div>
                 <div class="collapsible-body grey lighten-4">
@@ -210,7 +210,7 @@
                 </div>
             </li>
             <li>
-                <div class="collapsible-header truncate" title="Особенности подготовки межевого плана по исправлению ошибки в местоположении границ земельного участка?">
+                <div class="collapsible-header truncate text-italic" title="Особенности подготовки межевого плана по исправлению ошибки в местоположении границ земельного участка?">
                     Особенности подготовки межевого плана по исправлению ошибки в местоположении границ земельного участка?
                 </div>
                 <div class="collapsible-body grey lighten-4">

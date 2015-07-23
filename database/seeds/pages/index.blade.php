@@ -1,33 +1,6 @@
-<div class="section no-pad-bot" id="index-banner">
+<div class="section row">
     <div class="container">
-        <div class="row">
-            <p class="header col s12 light">Фирма ООО «Центр земельных отношений» создана в … году.  Она объединила высококвалифицированных специалистов, обладающих большим опытом работы. Наличие современного геодезического оборудования позволяет качественно выполнить полный комплекс работ в интересах заказчиков.</p>
-        </div>
-    </div>
-</div>
-
-<div class="row">
-    <div class="parallax-container">
-        <div class="parallax"><img src="/public/img/0004.jpg"></div>
-        <div class="container">
-            <div class="row m-none" style="padding: 50px 0;">
-                <div class="col s4">
-                    <img class="czo-icon" src="/public/img/icon-1.png">
-                </div>
-                <div class="col s8 white-text">
-                    <div>
-                        Межевание земель представляет собой комплекс инженерно-геодезических работ по установлению, восстановлению и закреплению на местности границ землепользований, определению местоположения границ и площади участка, а также юридическому оформлению полученных материалов.
-                    </div>
-                    <a style="margin-top: 25px;" class="waves-effect waves-light btn green darken-4" href="/uslugi#mejevanie">Услуги межевания</a>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-<div class="row">
-    <div class="container">
-        <div class="row">
+        <div class="row" style="margin-bottom: 0;">
             <div class="col s12">
                 <h5>Фирма ООО «Центр земельных отношений» предлагает широкий спектр услуг, а именно:</h5>
             </div>
@@ -49,11 +22,37 @@
                 </ul>
             </div>
             <div class="col s12">
-                <a style="margin-top: 25px;" class="waves-effect waves-light btn lime darken-4" href="/uslugi">Наши услуги</a>
+                <a style="margin-top: 15px;" class="waves-effect waves-light btn lime darken-4" href="/uslugi">Наши услуги</a>
             </div>
         </div>
     </div>
 </div>
+
+<div class="parallax-container">
+    <div class="parallax"><img src="/public/img/0004.jpg"></div>
+    <div class="container">
+        <div class="row m-none" style="padding: 50px 0;">
+            <div class="col s4">
+                <img class="czo-icon" src="/public/img/icon-1.png">
+            </div>
+            <div class="col s8 white-text">
+                <p class="header col s12 light">Фирма ООО «Центр земельных отношений» создана в … году.  Она объединила высококвалифицированных специалистов, обладающих большим опытом работы. Наличие современного геодезического оборудования позволяет качественно выполнить полный комплекс работ в интересах заказчиков.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="section" id="index-banner">
+    <div class="container">
+        <div class="row">
+            <p>
+                Межевание земель представляет собой комплекс инженерно-геодезических работ по установлению, восстановлению и закреплению на местности границ землепользований, определению местоположения границ и площади участка, а также юридическому оформлению полученных материалов.
+            </p>
+            <a style="margin-top: 15px;" class="waves-effect waves-light btn green darken-4" href="/uslugi#mejevanie">Услуги межевания</a>
+        </div>
+    </div>
+</div>
+
 
 <div class="row">
     <div class="parallax-container">
@@ -91,7 +90,7 @@
                 <ul class="disc">
                     <li>Кто выполняет кадастровые работы?</li>
                     <li>Что такое технический план?</li>
-                    <li>Что такое Акт обследования</li>
+                    <li>Что такое Акт обследования?</li>
                 </ul>
             </div>
             <div class="col s6 offset-s2">
@@ -100,7 +99,10 @@
                 </h3>
                 <ul class="disc">
                     <li>
-                        Какие документы необходимо предоставить для заключения договора подряда, чтобы выполнить работы по уточнению границ и площади земельного участка
+                        Какие документы необходимо предоставить для заключения договора подряда?
+                    </li>
+                    <li>
+                        Какова стоимость  кадастровых работ?
                     </li>
                 </ul>
             </div>
