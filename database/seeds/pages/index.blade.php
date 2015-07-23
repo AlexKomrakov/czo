@@ -32,7 +32,7 @@
     <div class="parallax"><img src="/public/img/0004.jpg"></div>
     <div class="container">
         <div class="row m-none" style="padding: 50px 0;">
-            <div class="col s12 m4">
+            <div class="col s12 m4 center-align">
                 <img class="czo-icon" src="/public/img/icon-1.png">
             </div>
             <div class="col s12 m8 white-text">
@@ -71,7 +71,7 @@
                         <a style="margin: 25px 0;" class="waves-effect waves-light btn blue-grey" href="/clients">Клиенты и отзывы</a>
                     </div>
                 </div>
-                <div class="col s12 m3">
+                <div class="col s12 m3 center-align">
                     <img class="czo-icon" src="/public/img/icon-2.png">
                 </div>
             </div>

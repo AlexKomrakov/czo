@@ -112,7 +112,7 @@
             </li>
             <li>
                 <div class="collapsible-header truncate text-italic">
-                    Что какое межевой план?
+                    Что такое межевой план?
                 </div>
                 <div class="collapsible-body grey lighten-4">
                     <p>
@@ -122,7 +122,7 @@
             </li>
             <li>
                 <div class="collapsible-header truncate text-italic">
-                    Что какое технический план?
+                    Что такое технический план?
                 </div>
                 <div class="collapsible-body grey lighten-4">
                     <p>
@@ -132,7 +132,7 @@
             </li>
             <li>
                 <div class="collapsible-header truncate text-italic">
-                    Что какое Акт обследования?
+                    Что такое Акт обследования?
                 </div>
                 <div class="collapsible-body grey lighten-4">
                     <p>
