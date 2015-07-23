@@ -18,7 +18,7 @@
                     <div>
                         Межевание земель представляет собой комплекс инженерно-геодезических работ по установлению, восстановлению и закреплению на местности границ землепользований, определению местоположения границ и площади участка, а также юридическому оформлению полученных материалов.
                     </div>
-                    <a style="margin-top: 25px;" class="waves-effect waves-light btn green darken-4" href="/uslugi">Услуги межевания</a>
+                    <a style="margin-top: 25px;" class="waves-effect waves-light btn green darken-4" href="/uslugi#mejevanie">Услуги межевания</a>
                 </div>
             </div>
         </div>

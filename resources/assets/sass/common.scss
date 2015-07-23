@@ -53,9 +53,13 @@ nav {
 }
 
 
-ul.disc li {
-  list-style-type: disc;
+ul.disc {
+  padding-left: 25px;
+  li {
+    list-style-type: disc;
+  }
 }
+
 
 .parallax-container {
   height: auto;
