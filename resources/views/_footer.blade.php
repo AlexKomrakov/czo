@@ -1,7 +1,7 @@
 <footer class="page-footer blue-grey">
     <div class="container" style="padding-bottom: 25px;">
         <div class="row pos-relative m-none">
-            <div class="col s7">
+            <div class="col s12 m7">
                 <h6>ООО «Центр земельных отношений»</h6>
                 <small>
                     Юридический адрес: г. Бор, ул. Рослякова д. 12<br>
@@ -18,9 +18,11 @@
                     <li class="display-inline"><a class="black-text btn blue-grey {{Request::is('faq') ? "darken-2" : ""}}" href="/faq">Вопросы и ответы</a></li>
                 </ul>
             </div>
-            <a href="http://www.ooods.ru" target="_blank">
-                <img class="card-title pos-absolute" src="/public/img/ds_logo.png" style="bottom: 0; right: 0;">
-            </a>
+            <div class="col s12 m5" style="min-height: 100px;">
+                <a href="http://www.ooods.ru" target="_blank">
+                    <img class="card-title pos-absolute" src="/public/img/ds_logo.png" style="bottom: 0; right: 0;">
+                </a>
+            </div>
         </div>
     </div>
 </footer>

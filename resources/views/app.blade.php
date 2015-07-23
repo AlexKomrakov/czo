@@ -4,6 +4,7 @@
 
     <title>@lang('app.name') @yield('title')</title>
     <meta name="Description" content="@yield('description')"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
     <link rel="stylesheet" href="{{ elixir("css/app.css") }}">
     <script src="{{elixir("js/app.js")}}"></script>
