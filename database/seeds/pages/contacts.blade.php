@@ -8,6 +8,7 @@
                     <p>
                         <b>БТИ, земля, геодезия</b>
                     </p>
+                    <a class="text-underline" href="mailto:czo.zem.bor@rambler.ru">czo.zem.bor@rambler.ru</a>
                     <h5>
                         <a href="tel:89527696019">8 952 769-60-19</a>
                     </h5>
@@ -50,8 +51,9 @@
             <div class="card">
                 <div class="card-content">
                     <span class="card-title grey-text text-darken-4">
-                        Юридические лица <span class="grey-text">(область, Нижний Новгород)</span>
+                        Юридические лица <span class="grey-text">(область, Нижний Новгород)</span><br>
                     </span>
+                    <a class="text-underline" href="mailto:yrzem@rambler.ru">yrzem@rambler.ru</a>
                     <h5>
                         <a href="tel:89023063305">8 902 306-33-05</a>
                     </h5>
