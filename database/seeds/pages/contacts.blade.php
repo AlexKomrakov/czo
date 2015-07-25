@@ -1,4 +1,4 @@
-<div class="section" style="margin-top: 40px;">
+<div style="margin-top: 40px;">
     <a class="dg-widget-link"
        href="http://2gis.ru/n_novgorod/firm/2674540559815672/center/44.055148999999986,56.36345599999998/zoom/16?utm_medium=widget-source&utm_campaign=firmsonmap&utm_source=bigMap">
         Посмотреть на карте Нижнего Новгорода
