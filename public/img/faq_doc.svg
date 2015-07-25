@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="300px" height="300px" viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">
+<g>
+	<path id="Icon_bgrnd_2_" fill-rule="evenodd" clip-rule="evenodd" fill="#008B4A" d="M296.983,149.43
+		c0,80.935-65.615,146.55-146.554,146.55c-80.94,0-146.555-65.615-146.555-146.55c0-80.944,65.615-146.559,146.555-146.559
+		C231.368,2.871,296.983,68.486,296.983,149.43z"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#006838" d="M3.875,149.43c0,24.688,6.137,47.946,16.922,68.35
+		c20.411,10.796,43.663,16.928,68.36,16.928c80.934,0,146.555-65.621,146.555-146.555c0-24.698-6.139-47.944-16.922-68.36
+		C198.378,9.009,175.126,2.871,150.429,2.871C69.489,2.871,3.875,68.486,3.875,149.43z"/>
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#F1F2F2" d="M62.588,40.709v216.356h147.207V40.709H62.588z M195.37,243.065
+		H76.587V53.86H195.37V243.065z"/>
+	<rect x="85.92" y="141.675" fill-rule="evenodd" clip-rule="evenodd" fill="#F1F2F2" width="50.058" height="9.759"/>
+	<rect x="85.92" y="174.766" fill-rule="evenodd" clip-rule="evenodd" fill="#F1F2F2" width="68.022" height="9.758"/>
+	<rect x="85.92" y="190.038" fill-rule="evenodd" clip-rule="evenodd" fill="#F1F2F2" width="34.011" height="9.759"/>
+	<rect x="85.92" y="205.313" fill-rule="evenodd" clip-rule="evenodd" fill="#F1F2F2" width="50.058" height="9.758"/>
+	<rect x="85.92" y="220.582" fill-rule="evenodd" clip-rule="evenodd" fill="#F1F2F2" width="25.031" height="9.758"/>
+	<rect x="116.888" y="220.582" fill-rule="evenodd" clip-rule="evenodd" fill="#F1F2F2" width="30.548" height="9.758"/>
+	<rect x="159.029" y="174.766" fill-rule="evenodd" clip-rule="evenodd" fill="#F1F2F2" width="32.948" height="9.758"/>
+	<rect x="125.093" y="190.038" fill-rule="evenodd" clip-rule="evenodd" fill="#F1F2F2" width="66.884" height="9.759"/>
+	<rect x="141.92" y="61.074" fill-rule="evenodd" clip-rule="evenodd" fill="#F1F2F2" width="50.058" height="9.758"/>
+	<rect x="141.92" y="76.348" fill-rule="evenodd" clip-rule="evenodd" fill="#F1F2F2" width="50.058" height="9.753"/>
+	<rect x="141.92" y="205.313" fill-rule="evenodd" clip-rule="evenodd" fill="#F1F2F2" width="50.058" height="9.758"/>
+</g>
+</svg>

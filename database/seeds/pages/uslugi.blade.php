@@ -6,7 +6,7 @@
 
             <div class="card">
                 <div class="card-image" style="max-height: 400px; overflow: hidden">
-                    <img src="/public/img/0004.jpg">
+                    <img src="/public/img/0010.jpg">
                 </div>
                 <div class="card-content">
                     <span class="card-title black-text">
@@ -39,6 +39,9 @@
                 </div>
             </div>
             <div class="card">
+                <div class="card-image valign-wrapper" style="max-height: 400px; overflow: hidden">
+                    <img class="valign" src="/public/img/0012.jpg" style="bottom: 0">
+                </div>
                 <div class="card-content">
                     <span class="card-title black-text">
                         Заказ и получение кадастрового паспорта
@@ -51,7 +54,7 @@
             </div>
             <div class="card">
                 <div class="card-image" style="max-height: 400px; overflow: hidden">
-                    <img src="/public/img/0003.jpg">
+                    <img src="/public/img/0009.jpg">
                 </div>
                 <div class="card-content">
                     <span class="card-title black-text">
@@ -66,6 +69,9 @@
             <h3 style="margin-top: 50px;">Другие виды услуг</h3>
 
             <div class="card">
+                <div class="card-image valign-wrapper" style="max-height: 400px; overflow: hidden">
+                    <img class="valign" src="/public/img/0005.jpg" style="bottom: 0">
+                </div>
                 <div class="card-content">
                     <span class="card-title black-text">
                         Топографическая съемка местности
@@ -100,6 +106,9 @@
                 </div>
             </div>
             <div class="card">
+                <div class="card-image" style="max-height: 400px; overflow: hidden">
+                    <img src="/public/img/0011.jpg">
+                </div>
                 <div class="card-content">
                     <span class="card-title black-text">
                         Картографические услуги
@@ -171,6 +180,9 @@
                 </div>
             </div>
             <div class="card">
+                <div class="card-image" style="max-height: 400px; overflow: hidden">
+                    <img src="/public/img/0014.jpg">
+                </div>
                 <div class="card-content">
                     <span class="card-title black-text">
                         Оформление объектов недвижимости

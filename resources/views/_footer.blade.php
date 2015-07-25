@@ -21,7 +21,9 @@
             </div>
             <div class="col s12 m5" style="min-height: 100px;">
                 <a href="http://www.ooods.ru" target="_blank">
-                    <img class="card-title pos-absolute" src="/public/img/ds_logo.png" style="bottom: 0; right: 15px; height: 60px;">
+                    <div class="right-align pos-absolute" style="bottom: 0; right: 15px; height: 55px;">
+                        <img height="55px" class="card-title" src="/public/img/ooodslogo.svg">
+                    </div>
                 </a>
             </div>
         </div>

@@ -87,7 +87,7 @@
             </div>
             <div class="col s12 m4">
                 <h3 class="center-align">
-                    <img height="100" width="100" src="/public/img/icon-question.png">
+                    <img height="100" width="100" src="/public/img/qMark.svg">
                 </h3>
                 <ul class="disc">
                     <li>Кто выполняет кадастровые работы?</li>
@@ -97,7 +97,7 @@
             </div>
             <div class="col s12 m6 offset-m2">
                 <h3 class="center-align hide-on-small-only">
-                    <img height="100" width="100" src="/public/img/icon-question.png">
+                    <img height="100" width="100" src="/public/img/qMark.svg">
                 </h3>
                 <ul class="disc">
                     <li>

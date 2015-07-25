@@ -24,6 +24,7 @@ class PageTableSeeder extends Seeder
                 'id' => 'clients',
                 'title' => 'Клиенты и отзывы',
                 'description' => '',
+                'body' => file_get_contents(base_path() . '/database/seeds/pages/clients.blade.php'),
             ],
             [
                 'id' => 'uslugi',
