@@ -3,7 +3,7 @@
         <a href="/" class="brand-logo">
             <img src="/public/img/logo.svg" style="position: relative; height: 100%;">
         </a>
-        <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
+        <a href="#" data-activates="mobile-demo" class="button-collapse top-nav full hide-on-large-only"><i class="mdi-navigation-menu"></i></a>
         <ul class="right hide-on-med-and-down" style="margin-left: 150px;">
             <li><a class="waves-effect waves-light btn blue-grey {{Request::is('uslugi') ? "darken-2" : ""}}" href="/uslugi">Услуги</a></li>
             <li><a class="waves-effect waves-light btn blue-grey {{Request::is('faq') ? "darken-2" : ""}}" href="/faq">Вопросы и ответы</a></li>

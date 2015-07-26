@@ -1,27 +1,32 @@
-<div style="margin-top: 40px;">
-    <a class="dg-widget-link"
-       href="http://2gis.ru/n_novgorod/firm/2674540559815672/center/44.055148999999986,56.36345599999998/zoom/16?utm_medium=widget-source&utm_campaign=firmsonmap&utm_source=bigMap">
-        Посмотреть на карте Нижнего Новгорода
-    </a>
-    <div class="dg-widget-link">
-        <a href="http://2gis.ru/n_novgorod/center/44.055149,56.363456/zoom/16/routeTab/rsType/bus/to/44.055149,56.363456╎Центр земельных отношений, ООО?utm_medium=widget-source&utm_campaign=firmsonmap&utm_source=route">
-            Найти проезд до Центр земельных отношений, ООО
-        </a>
+<div style="margin-top: 40px; height: 400px; width: 100%; overflow: hidden">
+    <div class="center-align hide-on-med-and-up" style="width: 100%; height: 400px; background: url('/public/img/map.jpg') center;">
     </div>
-    <script charset="utf-8" src="http://widgets.2gis.com/js/DGWidgetLoader.js"></script>
-    <script charset="utf-8">
-        new DGWidgetLoader({
-            "width": '100%',
-            "height": 400,
-            "borderColor": "#fff",
-            "pos": {"lat": 56.36345599999998, "lon": 44.055148999999986, "zoom": 16},
-            "opt": {"city": "n_novgorod"},
-            "org": [{"id": "2674540559815672"}]
-        });
-    </script>
-    <noscript style="color:#c00;font-size:16px;font-weight:bold;">
-        Виджет карты использует JavaScript. Включите его в настройках вашего браузера.
-    </noscript>
+    <div class="hide-on-small-only">
+        <a class="dg-widget-link"
+           href="http://2gis.ru/n_novgorod/firm/2674540559815672/center/44.055148999999986,56.36345599999998/zoom/16?utm_medium=widget-source&utm_campaign=firmsonmap&utm_source=bigMap">
+            Посмотреть на карте Нижнего Новгорода
+        </a>
+        <div class="dg-widget-link">
+            <a href="http://2gis.ru/n_novgorod/center/44.055149,56.363456/zoom/16/routeTab/rsType/bus/to/44.055149,56.363456╎Центр земельных отношений, ООО?utm_medium=widget-source&utm_campaign=firmsonmap&utm_source=route">
+                Найти проезд до Центр земельных отношений, ООО
+            </a>
+        </div>
+        <script charset="utf-8" src="http://widgets.2gis.com/js/DGWidgetLoader.js"></script>
+        <script charset="utf-8">
+            new DGWidgetLoader({
+                "width": '100%',
+                "height": 400,
+                "borderColor": "#fff",
+                "pos": {"lat": 56.36345599999998, "lon": 44.055148999999986, "zoom": 16},
+                "opt": {"city": "n_novgorod"},
+                "org": [{"id": "2674540559815672"}]
+            });
+        </script>
+        <noscript style="color:#c00;font-size:16px;font-weight:bold;">
+            Виджет карты использует JavaScript. Включите его в настройках вашего браузера.
+        </noscript>
+    </div>
+
 </div>
 
 <div class="container section">
