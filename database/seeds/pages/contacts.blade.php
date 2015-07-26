@@ -9,14 +9,16 @@
         </a>
     </div>
     <script charset="utf-8" src="http://widgets.2gis.com/js/DGWidgetLoader.js"></script>
-    <script charset="utf-8">new DGWidgetLoader({
+    <script charset="utf-8">
+        new DGWidgetLoader({
             "width": '100%',
             "height": 400,
             "borderColor": "#fff",
             "pos": {"lat": 56.36345599999998, "lon": 44.055148999999986, "zoom": 16},
             "opt": {"city": "n_novgorod"},
             "org": [{"id": "2674540559815672"}]
-        });</script>
+        });
+    </script>
     <noscript style="color:#c00;font-size:16px;font-weight:bold;">
         Виджет карты использует JavaScript. Включите его в настройках вашего браузера.
     </noscript>
