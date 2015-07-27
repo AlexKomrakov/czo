@@ -59,7 +59,8 @@
 
     lightbox.option({
         'resizeDuration': 200,
-        'showImageNumberLabel': false
+        'showImageNumberLabel': false,
+        'wrapAround': true
     })
 </script>
 
