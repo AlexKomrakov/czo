@@ -28,6 +28,8 @@
     <script src="{{elixir("js/app.js")}}"></script>
     <script src="/public/ckeditor/ckeditor.js"></script>
 
+    <link rel="stylesheet" href="/public/lightbox2/dist/css/lightbox.css">
+
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href='http://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic&subset=cyrillic-ext,latin' rel='stylesheet' type='text/css'>
 
@@ -48,10 +50,17 @@
 
 @include('_footer')
 
+<script src="/public/lightbox2/dist/js/lightbox.min.js"></script>
+
 <script>
     $( document ).ready(function() {
         $(".button-collapse").sideNav();
     });
+
+    lightbox.option({
+        'resizeDuration': 200,
+        'showImageNumberLabel': false
+    })
 </script>
 
 </body>
