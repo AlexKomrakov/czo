@@ -29,7 +29,7 @@
     </div>
 </div>
 
-<div class="parallax-container">
+<div class="parallax-container" style="background-color: rgba(0,0,0,0.5);">
     <div class="parallax"><img src="/public/img/0004.jpg"></div>
     <div class="container">
         <div class="row m-none" style="padding: 50px 0;">
@@ -58,7 +58,7 @@
 
 
 <div class="row">
-    <div class="parallax-container">
+    <div class="parallax-container" style="background-color: rgba(0,0,0,0.4);">
         <div class="parallax"><img src="/public/img/0003.jpg"></div>
         <div class="container">
             <div class="row" style="padding: 50px 0; margin: 0;">
