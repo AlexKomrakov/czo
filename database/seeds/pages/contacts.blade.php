@@ -42,7 +42,7 @@
             </div>
             <a class="text-underline" href="mailto:czo.zem.bor@rambler.ru">czo.zem.bor@rambler.ru</a>
             <div class="phone-block">
-                <a href="tel:89527696019">8 952 769-60-19</a>
+                <a href="tel:89036052473">8 903 605-24-73</a>
             </div>
             <div>
                 понедельник–четверг  с 8.00 до 17.00</br>
