@@ -24,7 +24,7 @@
             <div class="col s12 m5" style="min-height: 100px;">
 
                 @include('_counters.liveinternet')
-                @include('_counters.yandexr')
+                @include('_counters.yandex')
 
                 <a href="http://www.ooods.ru" target="_blank">
                     <div class="right-align pos-absolute" style="bottom: 0; right: 15px; height: 55px;">
