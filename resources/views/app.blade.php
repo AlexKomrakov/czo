@@ -24,6 +24,8 @@
     <meta name="Description" content="@yield('description')"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
+    <meta name='yandex-verification' content='767e6bb3699c8047' />
+
     <link rel="stylesheet" href="{{ elixir("css/app.css") }}">
     <script src="{{elixir("js/app.js")}}"></script>
     <script src="/public/ckeditor/ckeditor.js"></script>
