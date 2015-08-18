@@ -1,7 +1,7 @@
 @extends('app')
 
 @section('title')
-    {{ $page->title }}
+    — {{ $page->title }}
 @endsection
 
 @section('description')
