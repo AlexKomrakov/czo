@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: http://center-zo.ru/sitemap.xml
