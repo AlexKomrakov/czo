@@ -2,4 +2,4 @@ push:
    branch: refs/heads/master
    host: root@178.62.179.190:22
    commands:
-     - ssh: /var/www/czo/git pull
+     - ssh: cd /var/www/czo/ && git pull
