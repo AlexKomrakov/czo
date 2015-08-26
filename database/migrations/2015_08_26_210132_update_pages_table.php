@@ -12,7 +12,7 @@ class UpdatePagesTable extends Migration
      */
     public function up()
     {
-        Schema::create('pages', function (Blueprint $table) {
+        Schema::table('pages', function (Blueprint $table) {
             $table->string('keywords')->nullable();
         });
     }
