@@ -3,4 +3,4 @@ push:
    host: root@178.62.179.190:22
    commands:
      - ssh: cd /var/www/czo/ && git pull
-     - ssh: cd /var/www/czo/ && php artisan migrate
+     - ssh: cd /var/www/czo/ && php artisan migrate --force
