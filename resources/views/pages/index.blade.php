@@ -19,10 +19,12 @@
             @foreach($pages as $page)
             <tr>
                 <td width="30">
-                    {{$page->title}}
-                    <div>
-                        <small>{{$page->id}}</small>
-                    </div>
+                    <a href="/{{$page->id}}" target="_blank">
+                        {{$page->title}}
+                        <div>
+                            <small>{{$page->id}}</small>
+                        </div>
+                    </a>
                 </td>
                 <td width="30"><small>{{$page->description}}</small></td>
                 <td width="10"><small>{{$page->keywords}}</small></td>
