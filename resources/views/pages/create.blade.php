@@ -13,11 +13,15 @@
                 </div>
                 <div class="input-field col s12">
                     <input id="title" name="title" type="text" class="validate">
-                    <label for="title">Название</label>
+                    <label for="title">Название (title)</label>
                 </div>
                 <div class="input-field col s12">
                     <input id="description" type="text" name="description" class="validate">
-                    <label for="description">Описание</label>
+                    <label for="description">Описание (meta description)</label>
+                </div>
+                <div class="input-field col s12">
+                    <input id="keywords" type="text" name="keywords" class="validate">
+                    <label for="keywords">Ключевые слова (meta keywords)</label>
                 </div>
                 <div class="input-field col s12">
                     <textarea id="ckeditor" type="text" id="body" name="body" class="materialize-textarea"></textarea>

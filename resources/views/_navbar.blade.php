@@ -1,7 +1,7 @@
 <nav>
     <div class="nav-wrapper container" style="overflow: hidden;">
         <a href="/" class="brand-logo">
-            <img src="/public/img/logo.svg" style="position: relative; height: 100%;">
+            <img src="/img/logo.svg" style="position: relative; height: 100%;">
         </a>
         <a href="#" data-activates="mobile-demo" class="button-collapse top-nav full hide-on-large-only"><i class="mdi-navigation-menu"></i></a>
         <div class="valign-wrapper right" style="height: 150px;">

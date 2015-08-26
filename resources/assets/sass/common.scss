@@ -1,5 +1,5 @@
 nav {
-  background: url('/public/img/header.jpg') center;
+  background: url('/img/header.jpg') center;
   background-size: cover;
   .brand-logo {
     height: $navbar-height-mobile;
@@ -93,7 +93,7 @@ main {
 }
 
 .phone-block {
-  background: url('/public/img/phone.svg') no-repeat;
+  background: url('/img/phone.svg') no-repeat;
   background-size: 25px;
   padding-left: 35px;
 }

@@ -28,7 +28,7 @@
 
                 <a href="http://www.ooods.ru" target="_blank">
                     <div class="right-align pos-absolute" style="bottom: 0; right: 15px; height: 55px;">
-                        <img height="55px" class="card-title" src="/public/img/ooodslogo.svg">
+                        <img height="55px" class="card-title" src="/img/ooodslogo.svg">
                     </div>
                 </a>
             </div>
