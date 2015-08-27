@@ -9,19 +9,19 @@
             <div class="row">
                 <div class="input-field col s12">
                     <input id="id" name="id" type="text" class="validate" value="{{old('id')}}">
-                    <label for="id">Идентификатор</label>
+                    <label for="id">Идентификатор <small>(ссылка на страницу вида {{url()}}/{Идентификатор})</small></label>
                 </div>
                 <div class="input-field col s12">
                     <input id="title" name="title" type="text" class="validate" value="{{old('title')}}">
-                    <label for="title">Название (title)</label>
+                    <label for="title">Название <small>(title)</small></label>
                 </div>
                 <div class="input-field col s12">
                     <input id="description" type="text" name="description" class="validate" value="{{old('description')}}">
-                    <label for="description">Описание (meta description)</label>
+                    <label for="description">Описание <small>(meta description)</small></label>
                 </div>
                 <div class="input-field col s12">
                     <input id="keywords" type="text" name="keywords" class="validate" value="{{old('keywords')}}">
-                    <label for="keywords">Ключевые слова (meta keywords)</label>
+                    <label for="keywords">Ключевые слова <small>(meta keywords)</small></label>
                 </div>
                 <div class="input-field col s12">
                     <textarea id="ckeditor" type="text" id="body" name="body" class="materialize-textarea" value="{{old('body')}}"></textarea>
