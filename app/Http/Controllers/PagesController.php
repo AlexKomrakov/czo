@@ -10,6 +10,7 @@ namespace App\Http\Controllers;
 
 
 use App\Page;
+use Illuminate\Http\Request;
 use Input;
 use Redirect;
 
@@ -32,9 +33,13 @@ class PagesController extends Controller {
         return view('pages.create');
     }
 
-    public function store()
+    public function store(Request $request)
     {
-        Page::create(Input::all());
+        $this->validate($request, [
+            'id' => 'required',
+        ]);
+        Page::create($request->all());
+        $request->flash();
 
         return redirect("/admin/pages");
     }
