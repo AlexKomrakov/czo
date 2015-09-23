@@ -1,3 +1,5 @@
 User-agent: *
 Disallow:
+
+Host: center-zo.ru
 Sitemap: http://center-zo.ru/sitemap.xml

@@ -1,22 +1,61 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-    <url>
-        <loc>http://center-zo.ru/</loc>
-    </url>
-    <url>
-        <loc>http://center-zo.ru/uslugi</loc>
-    </url>
-    <url>
-        <loc>http://center-zo.ru/faq</loc>
-    </url>
-    <url>
-        <loc>http://center-zo.ru/clients</loc>
-    </url>
-    <url>
-        <loc>http://center-zo.ru/contacts</loc>
-    </url>
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+	<loc>http://center-zo.ru/</loc>
+</url>
+<url>
+	<loc>http://center-zo.ru/uslugi</loc>
+</url>
+<url>
+	<loc>http://center-zo.ru/faq</loc>
+</url>
+<url>
+	<loc>http://center-zo.ru/clients</loc>
+</url>
+<url>
+	<loc>http://center-zo.ru/contacts</loc>
+</url>
+<url>
+	<loc>http://center-zo.ru/mejevanie</loc>
+</url>
+<url>
+	<loc>http://center-zo.ru/oformlenie-zemli-v-sobstvennost</loc>
+</url>
+<url>
+	<loc>http://center-zo.ru/tehnicheskii-plan-uchastka</loc>
+</url>
+<url>
+	<loc>http://center-zo.ru/kadastrovye-raboty</loc>
+</url>
+<url>
+	<loc>http://center-zo.ru/pasport-kadastrovyi</loc>
+</url>
+<url>
+	<loc>http://center-zo.ru/kadastrovyi-inzhener</loc>
+</url>
+<url>
+	<loc>http://center-zo.ru/vosstannovlenie-granic-zemuchastka</loc>
+</url>
+<url>
+	<loc>http://center-zo.ru/registraciya-nedvizhimosti</loc>
+</url>
+<url>
+	<loc>http://center-zo.ru/toposemka-mestnosti</loc>
+</url>
+<url>
+	<loc>http://center-zo.ru/ispolnitelnaya-semka</loc>
+</url>
+<url>
+	<loc>http://center-zo.ru/kartograficheskie-uslugi</loc>
+</url>
+<url>
+	<loc>http://center-zo.ru/ocenka-nedvizhimosti</loc>
+</url>
+<url>
+	<loc>http://center-zo.ru/oformlenie-zemli</loc>
+</url>
+<url>
+	<loc>http://center-zo.ru/uslugi-bti</loc>
+</url>
 </urlset>

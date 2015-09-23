@@ -3,8 +3,13 @@
         <a href="/" class="brand-logo">
             <img src="/img/logo.svg" style="position: relative; height: 100%;">
         </a>
+		<!--span class="top-contact">г.&nbsp;Нижний Новгород, тел.:&nbsp;+7&nbsp;903&nbsp;605-24-73<br />
+		г.&nbsp;Бор, тел.:&nbsp;8&nbsp;(83159)&nbsp;2-40-65
+		</span-->
         <a href="#" data-activates="mobile-demo" class="button-collapse top-nav full hide-on-large-only"><i class="mdi-navigation-menu"></i></a>
+		
         <div class="valign-wrapper right" style="height: 150px;">
+		
             <ul class="hide-on-med-and-down valign" style="margin-left: 150px; line-height: 45px">
                 <li><a class="waves-effect waves-light btn blue-grey {{Request::is('uslugi') ? "darken-2" : ""}}" href="/uslugi">Услуги</a></li>
                 <li><a class="waves-effect waves-light btn blue-grey {{Request::is('faq') ? "darken-2" : ""}}" href="/faq">Вопросы и ответы</a></li>

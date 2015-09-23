@@ -2,4 +2,6 @@
 	RewriteEngine on
 	RewriteRule  ^$ public/    [L]
 	RewriteRule  (.*) public/$1 [L]
+	
+	Redirect 301 /kadastrovyi-pasport http://center-zo.ru/pasport-kadastrovyi
 </IfModule>
