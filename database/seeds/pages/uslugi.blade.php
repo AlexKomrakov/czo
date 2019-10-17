@@ -6,7 +6,7 @@
 
             <div class="card">
                 <div class="card-image" style="max-height: 400px; overflow: hidden">
-                    <img src="/public/img/0010.jpg">
+                    <img src="/img/0010.jpg">
                 </div>
                 <div class="card-content">
                     <span class="card-title black-text">
@@ -38,7 +38,7 @@
             </div>
             <div class="card">
                 <div class="card-image valign-wrapper" style="max-height: 400px; overflow: hidden">
-                    <img class="valign" src="/public/img/0012.jpg" style="bottom: 0">
+                    <img class="valign" src="/img/0012.jpg" style="bottom: 0">
                 </div>
                 <div class="card-content">
                     <span class="card-title black-text">
@@ -52,7 +52,7 @@
             </div>
             <div class="card">
                 <div class="card-image" style="max-height: 400px; overflow: hidden">
-                    <img src="/public/img/0009.jpg">
+                    <img src="/img/0009.jpg">
                 </div>
                 <div class="card-content">
                     <span class="card-title black-text">
@@ -99,7 +99,7 @@
             </div>
             <div class="card">
                 <div class="card-image" style="max-height: 400px; overflow: hidden">
-                    <img src="/public/img/0014.jpg">
+                    <img src="/img/0014.jpg">
                 </div>
                 <div class="card-content">
                     <span class="card-title black-text">
@@ -123,7 +123,7 @@
 
             <div class="card">
                 <div class="card-image valign-wrapper" style="max-height: 400px; overflow: hidden">
-                    <img class="valign" src="/public/img/0005.jpg" style="bottom: 0">
+                    <img class="valign" src="/img/0005.jpg" style="bottom: 0">
                 </div>
                 <div class="card-content">
                     <span class="card-title black-text">
@@ -160,7 +160,7 @@
             </div>
             <div class="card">
                 <div class="card-image" style="max-height: 400px; overflow: hidden">
-                    <img src="/public/img/0011.jpg">
+                    <img src="/img/0011.jpg">
                 </div>
                 <div class="card-content">
                     <span class="card-title black-text">

@@ -1,7 +1,7 @@
 <div class="container section">
 
     <h3 class="center-align">
-        <img height="100" width="100" src="/public/img/faq_rur.svg">
+        <img height="100" width="100" src="/img/faq_rur.svg">
     </h3>
     <ul class="collapsible" data-collapsible="accordion">
         <li class="collapsible-header blue-grey white-text">
@@ -49,7 +49,7 @@
         </li>
     </ul>
     <h3 class="center-align">
-        <img height="100" width="100" src="/public/img/faq_doc.svg">
+        <img height="100" width="100" src="/img/faq_doc.svg">
     </h3>
     <ul class="collapsible" data-collapsible="accordion">
         <li class="collapsible-header blue-grey white-text">
@@ -87,7 +87,7 @@
         </li>
     </ul>
     <h3 class="center-align" id="mejevanie">
-        <img height="100" width="100" src="/public/img/faq_dig.svg">
+        <img height="100" width="100" src="/img/faq_dig.svg">
     </h3>
     <ul class="collapsible" data-collapsible="accordion">
         <li class="collapsible-header blue-grey white-text">
@@ -165,7 +165,7 @@
         </li>
     </ul>
     <h3 class="center-align">
-        <img height="100" width="100" src="/public/img/faq_ask.svg">
+        <img height="100" width="100" src="/img/faq_ask.svg">
     </h3>
     <ul class="collapsible" data-collapsible="accordion">
         <li class="collapsible-header blue-grey white-text">

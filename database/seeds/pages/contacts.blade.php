@@ -34,7 +34,7 @@
     <div class="row">
         <div class="col s12 m6">
             <h3 class="center-align">
-                <img height="100" width="100" src="/public/img/contacts02.svg">
+                <img height="100" width="100" src="/img/contacts02.svg">
             </h3>
             <h5>Нижний Новгород</h5>
             <div>
@@ -50,7 +50,7 @@
                 перерыв на обед с 12.00 до 13.00
             </div>
             <h3 class="center-align">
-                <img height="100" width="100" src="/public/img/contacts01.svg">
+                <img height="100" width="100" src="/img/contacts01.svg">
             </h3>
             <div>
                 <b>Юридические лица</b> <span class="grey-text">(область, Нижний Новгород)</span><br>
@@ -67,7 +67,7 @@
         </div>
         <div class="col s12 m6">
             <h3 class="center-align">
-                <img height="100" width="100" src="/public/img/contacts02.svg">
+                <img height="100" width="100" src="/img/contacts02.svg">
             </h3>
             <h5>Область</h5>
             <div>
