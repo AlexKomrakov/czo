@@ -30,11 +30,11 @@
 </div>
 
 <div class="parallax-container" style="background-color: rgba(0,0,0,0.5);">
-    <div class="parallax"><img src="/public/img/0004.jpg"></div>
+    <div class="parallax"><img src="/img/0004.jpg"></div>
     <div class="container">
         <div class="row m-none" style="padding: 50px 0;">
             <div class="col s12 m4 center-align">
-                <img class="czo-icon" src="/public/img/icon-1.png">
+                <img class="czo-icon" src="/img/icon-1.png">
             </div>
             <div class="col s12 m8 white-text">
                 <p class="header col s12 light">Фирма ООО «Центр земельных отношений» создана в 2003 году.  Она объединила высококвалифицированных специалистов, обладающих большим опытом работы. Наличие современного геодезического оборудования позволяет качественно выполнить полный комплекс работ в интересах заказчиков.</p>
@@ -59,7 +59,7 @@
 
 <div class="row">
     <div class="parallax-container" style="background-color: rgba(0,0,0,0.4);">
-        <div class="parallax"><img src="/public/img/0003.jpg"></div>
+        <div class="parallax"><img src="/img/0003.jpg"></div>
         <div class="container">
             <div class="row" style="padding: 50px 0; margin: 0;">
                 <div class="col s12 m6 offset-m3 white-text">
@@ -73,7 +73,7 @@
                     </div>
                 </div>
                 <div class="col s12 m3 center-align">
-                    <img class="czo-icon" src="/public/img/icon-2.png">
+                    <img class="czo-icon" src="/img/icon-2.png">
                 </div>
             </div>
         </div>
@@ -88,7 +88,7 @@
             </div>
             <div class="col s12 m4">
                 <h3 class="center-align">
-                    <img height="100" width="100" src="/public/img/qMark.svg">
+                    <img height="100" width="100" src="/img/qMark.svg">
                 </h3>
                 <ul class="disc">
                     <li>Кто выполняет кадастровые работы?</li>
@@ -98,7 +98,7 @@
             </div>
             <div class="col s12 m6 offset-m2">
                 <h3 class="center-align hide-on-small-only">
-                    <img height="100" width="100" src="/public/img/qMark.svg">
+                    <img height="100" width="100" src="/img/qMark.svg">
                 </h3>
                 <ul class="disc">
                     <li>
